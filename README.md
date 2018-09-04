@@ -1,2 +1,2 @@
-# Graphics-Stack
-Add polygons
+# Graphics-Polygon
+Add triangles to build graphics
